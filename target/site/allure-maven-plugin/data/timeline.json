@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-SQVQN7V",
+    "children" : [ {
+      "name" : "15864@DESKTOP-SQVQN7V.main(1)",
+      "children" : [ {
+        "name" : "ozonTest",
+        "uid" : "7e894817fb545286",
+        "parentUid" : "c962b92791fbbbc2867402e538a2b17a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552900168510,
+          "stop" : 1552900287610,
+          "duration" : 119100
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c962b92791fbbbc2867402e538a2b17a"
+    } ],
+    "uid" : "218de87b593fda57c11fb03bd2682c1f"
+  } ]
+}

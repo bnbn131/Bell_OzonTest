@@ -1,0 +1,11 @@
+[ {
+  "uid" : "7e894817fb545286",
+  "name" : "ozonTest",
+  "time" : {
+    "start" : 1552900168510,
+    "stop" : 1552900287610,
+    "duration" : 119100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

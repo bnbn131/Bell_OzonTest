@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "OzonTest",
+    "children" : [ {
+      "name" : "ozonTest",
+      "uid" : "7e894817fb545286",
+      "parentUid" : "ad139aa6d9fba7e86b2c2be2b11390c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1552900168510,
+        "stop" : 1552900287610,
+        "duration" : 119100
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ad139aa6d9fba7e86b2c2be2b11390c3"
+  } ]
+}
